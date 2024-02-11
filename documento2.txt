@@ -1,4 +1,6 @@
 hola
 adiós
 sayonara
+<<<<<<< HEAD
 chaito
+
