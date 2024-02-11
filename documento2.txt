@@ -1,6 +1,5 @@
 hola
 adiós
 sayonara
-<<<<<<< HEAD
 chaito
-
+juguemos en el bosque mientras el lobo no está
